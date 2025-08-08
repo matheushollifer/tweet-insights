@@ -1,0 +1,137 @@
+﻿id,tweetText,tweetURL,type,tweetAuthor,handle,replyCount,quoteCount,retweetCount,likeCount,views,bookmarkCount,createdAt,allMediaURL,videoURL
+1953307549194678720,@andrew_n_carr @itsclivetime banger,https://x.com/sama/status/1953307549194678720,tweet,Sam Altman,@sama,24,2,5,326,11826,9,2025-08-07 01:09:45,,
+1953296157586931745,"our livestream tomorrow at 10 am PDT will be longer than usual, around an hour.
+
+we have a lot to show and hope you can find the the time to watch!",https://x.com/sama/status/1953296157586931745,tweet,Sam Altman,@sama,1307,400,1128,15646,968297,1067,2025-08-07 00:24:29,,
+1953264193890861114,https://t.co/1u0MOGvJWU,https://x.com/sama/status/1953264193890861114,tweet,Sam Altman,@sama,2432,1157,1406,23874,3302752,1684,2025-08-06 22:17:28,https://pbs.twimg.com/media/GxtfdakawAAsVKT.jpg,
+1953177626367148384,"@laserboat999 ok this was funny, send me your address and ill send you a 5090",https://x.com/sama/status/1953177626367148384,tweet,Sam Altman,@sama,163,52,40,3686,481325,112,2025-08-06 16:33:29,,
+1953103336044990779,"we are providing ChatGPT access to the entire federal workforce!
+
+(for $1 a year per agency)
+
+https://t.co/avYIinWPXX",https://x.com/sama/status/1953103336044990779,tweet,Sam Altman,@sama,1531,539,693,10416,1319409,1194,2025-08-06 11:38:16,,
+1952879515287601465,"someday soon something smarter than the smartest person you know will be running on a device in your pocket, helping you with whatever you want.
+
+this is a very remarkable thing.",https://x.com/sama/status/1952879515287601465,tweet,Sam Altman,@sama,3395,927,3009,35220,2500130,2933,2025-08-05 20:48:53,,
+1952878230186410206,"My initial impression on OpenAI's OSS model is aligned with what they advertised. It does feel closer to o3 than to other open models, except it is much faster and cheaper. Some providers offer it at 3000 tokens/s, which is insane. It is definitely smarter than Kimi K2, R1 and",https://x.com/sama/status/1952878230186410206,retweet,Taelin,@VictorTaelin,0,0,124,0,7,0,2025-08-05 20:43:47,,
+1952813002958488049,@yacineMTB thanks bro,https://x.com/sama/status/1952813002958488049,tweet,Sam Altman,@sama,337,40,104,8869,204470,199,2025-08-05 16:24:36,,
+1952803777561362792,@flavioAd the cool thing in this case is that you can verify 20b!,https://x.com/sama/status/1952803777561362792,tweet,Sam Altman,@sama,73,7,44,2518,129863,61,2025-08-05 15:47:56,,
+1952783409744416797,"Today we release gpt-oss-120b and gpt-oss-20b—two open-weight LLMs that deliver strong performance and agentic tool use.
+
+Before release, we ran a first of its kind safety analysis where we fine-tuned the models to intentionally maximize their bio and cyber capabilities 🧵 https://t.co/err2mBcggx",https://x.com/sama/status/1952783409744416797,retweet,Eric Wallace,@Eric_Wallace_,0,0,385,0,3,0,2025-08-05 14:27:00,,
+1952778579294466220,@sama Sam this performance is crazy https://t.co/j32uzirST7,https://x.com/sama/status/1952778579294466220,retweet,Angel Bogado 🌻,@Angaisb_,0,0,98,0,-,0,2025-08-05 14:07:48,https://pbs.twimg.com/media/GxmpGu8XMAA83iG.jpg,
+1952778518225723434,"gpt-oss is a big deal; it is a state-of-the-art open-weights reasoning model, with strong real-world performance comparable to o4-mini, that you can run locally on your own computer (or phone with the smaller size). We believe this is the best and most usable open model in the world.
+
+We're excited to make this model, the result of billions of dollars of research, available to the world to get AI into the hands of the most people possible. We believe far more good than bad will come from it; for example, gpt-oss-120b performs about as well as o3 on challenging health issues. We have worked hard to mitigate the most serious safety issues, especially around biosecurity. gpt-oss models perform comparably to our frontier models on internal safety benchmarks.
+
+We believe in individual empowerment. Although we believe most people will want to use a convenient service like ChatGPT, people should be able to directly control and modify their own AI when they need to, and the privacy benefits are obvious.
+
+As part of this, we are quite hopeful that this release will enable new kinds of research and the creation of new kinds of products. We expect a meaningful uptick in the rate of innovation in our field, and for many more people to do important work than were able to before.
+
+OpenAI’s mission is to ensure AGI that benefits all of humanity. To that end, we are excited for the world to be building on an open AI stack created in the United States, based on democratic values, available for free to all and for wide benefit.",https://x.com/sama/status/1952778518225723434,tweet,Sam Altman,@sama,1366,693,2231,21994,2560111,3828,2025-08-05 14:07:34,,
+1952777587492876658,https://t.co/avgkK5kzTu,https://x.com/sama/status/1952777587492876658,tweet,Sam Altman,@sama,116,60,256,3372,432966,967,2025-08-05 14:03:52,,
+1952777539052814448,"gpt-oss is out!
+
+we made an open model that performs at the level of o4-mini and runs on a high-end laptop (WTF!!)
+
+(and a smaller one that runs on a phone).
+
+super proud of the team; big triumph of technology.",https://x.com/sama/status/1952777539052814448,tweet,Sam Altman,@sama,1709,1260,4063,46526,3935967,8053,2025-08-05 14:03:40,,
+1952770458589266151,@sailaunderscore fine ill tell you next time,https://x.com/sama/status/1952770458589266151,tweet,Sam Altman,@sama,64,0,9,1079,100792,29,2025-08-05 13:35:32,,
+1952767676922974463,🤔,https://x.com/sama/status/1952767676922974463,tweet,Sam Altman,@sama,416,64,306,5604,915854,900,2025-08-05 13:24:29,,
+1952759361417466016,"we have a lot of new stuff for you over the next few days!
+
+something big-but-small today.
+
+and then a big upgrade later this week.",https://x.com/sama/status/1952759361417466016,tweet,Sam Altman,@sama,1565,577,1347,20209,1667988,1120,2025-08-05 12:51:26,,
+1952084574366032354,entering the fast fashion era of SaaS very soon,https://x.com/sama/status/1952084574366032354,tweet,Sam Altman,@sama,1631,643,1467,19794,2967085,2904,2025-08-03 16:10:05,,
+1952071832972186018,@nicdunz turns out yes! https://t.co/yVsZXKSmKR,https://x.com/sama/status/1952071832972186018,tweet,Sam Altman,@sama,521,479,336,4635,1792517,1137,2025-08-03 15:19:27,https://pbs.twimg.com/media/Gxcm5i9bQAEMYbg.png,
+1952070519018373197,pantheon is such a good show!,https://x.com/sama/status/1952070519018373197,tweet,Sam Altman,@sama,903,292,552,7972,1348289,1258,2025-08-03 15:14:14,,
+1951695003157426645,"we have a ton of stuff to launch over the next couple of months--new models, products, features, and more.
+
+please bear with us through some probable hiccups and capacity crunches. although it may be slightly choppy, we think you'll really love what we've created for you!",https://x.com/sama/status/1951695003157426645,tweet,Sam Altman,@sama,1901,412,1257,19009,1777651,1170,2025-08-02 14:22:04,,
+1950936581810041143,"i usually think articles like this miss the mark, but this one really captured the spirit of mark and jakub's partnership
+
+https://t.co/LDAfQwp0Di",https://x.com/sama/status/1950936581810041143,tweet,Sam Altman,@sama,495,30,761,4184,815816,1217,2025-07-31 12:08:22,,
+1950299705751327149,"study mode in chatgpt is now rolling out to all free, plus, pro, and teams users! 📚🚀
+
+this has been in the works for a while and i’m so excited we’re getting it out to the world today 🌎 i’ve always felt strongly about making education more accessible and intentional. with https://t.co/cIsE5GTy9i",https://x.com/sama/status/1950299705751327149,retweet,Anshita Saini,@anshitasaini_,0,0,448,0,508,0,2025-07-29 17:57:39,,
+1947640336739643795,we are planning to significantly expand the ambitions of stargate past the $500 billion commitment we announced in january.,https://x.com/sama/status/1947640336739643795,tweet,Sam Altman,@sama,300,46,183,2267,364397,135,2025-07-22 09:50:16,,
+1947640335334543608,https://t.co/wdbXwqMkyi,https://x.com/sama/status/1947640335334543608,tweet,Sam Altman,@sama,143,9,107,1419,395439,150,2025-07-22 09:50:16,,
+1947640330318156074,"we have signed a deal for an additional 4.5 gigawatts of capacity with oracle as part of stargate. easy to throw around numbers, but this is a _gigantic_ infrastructure project.
+
+some progress photos from abilene: https://t.co/JfutuoYvn9",https://x.com/sama/status/1947640330318156074,tweet,Sam Altman,@sama,1613,611,1668,20839,2120835,2373,2025-07-22 09:50:14,"https://pbs.twimg.com/media/GwdnmEBW4AAqObw.jpg,https://pbs.twimg.com/media/GwdnmldWIAEz_ia.jpg",
+1947057625780396512,"we will cross well over 1 million GPUs brought online by the end of this year!
+
+very proud of the team but now they better get to work figuring out how to 100x that lol",https://x.com/sama/status/1947057625780396512,tweet,Sam Altman,@sama,1511,418,891,15859,2813345,1181,2025-07-20 19:14:47,,
+1946575101509734619,"woke up early on a saturday to have a couple of hours to try using our new model for a little coding project.
+
+done in 5 minutes. it is very, very good.
+
+not sure how i feel about it...",https://x.com/sama/status/1946575101509734619,tweet,Sam Altman,@sama,2195,391,869,23956,3184707,2189,2025-07-19 11:17:24,,
+1946569582464139713,https://t.co/4ZY3aIKcKo,https://x.com/sama/status/1946569582464139713,tweet,Sam Altman,@sama,302,100,153,2265,374770,95,2025-07-19 10:55:28,https://pbs.twimg.com/media/GwOatIrXEAEUMIA.png,
+1946569252296929727,"we achieved gold medal level performance on the 2025 IMO competition with a general-purpose reasoning system! to emphasize, this is an LLM doing math and not a specific formal math system; it is part of our main push towards general intelligence.
+
+when we first started openai, this was a dream but not one that felt very realistic to us; it is a significant marker of how far AI has come over the past decade.
+
+we are releasing GPT-5 soon but want to set accurate expectations: this is an experimental model that incorporates new research techniques we will use in future models. we think you will love GPT-5, but we don't plan to release a model with IMO gold level of capability for many months.",https://x.com/sama/status/1946569252296929727,tweet,Sam Altman,@sama,532,265,752,6445,1150010,777,2025-07-19 10:54:09,,
+1945901039104004467,"watching chatgpt agent use a computer to do complex tasks has been a real ""feel the agi"" moment for me; something about seeing the computer think, plan, and execute hits different.",https://x.com/sama/status/1945901039104004467,tweet,Sam Altman,@sama,1218,274,856,13158,4169342,1262,2025-07-17 14:38:55,,
+1945900345378697650,"Today we launched a new product called ChatGPT Agent.
+
+Agent represents a new level of capability for AI systems and can accomplish some remarkable, complex tasks for you using its own computer. It combines the spirit of Deep Research and Operator, but is more powerful than that may sound—it can think for a long time, use some tools, think some more, take some actions, think some more, etc. For example, we showed a demo in our launch of preparing for a friend’s wedding: buying an outfit, booking travel, choosing a gift, etc. We also showed an example of analyzing data and creating a presentation for work.
+
+Although the utility is significant, so are the potential risks.
+
+We have built a lot of safeguards and warnings into it, and broader mitigations than we’ve ever developed before from robust training to system safeguards to user controls, but we can’t anticipate everything. In the spirit of iterative deployment, we are going to warn users heavily and give users freedom to take actions carefully if they want to.
+
+I would explain this to my own family as cutting edge and experimental; a chance to try the future, but not something I’d yet use for high-stakes uses or with a lot of personal information until we have a chance to study and improve it in the wild.
+
+We don’t know exactly what the impacts are going to be, but bad actors may try to “trick” users’ AI agents into giving private information they shouldn’t and take actions they shouldn’t, in ways we can’t predict. We recommend giving agents the minimum access required to complete a task to reduce privacy and security risks.
+
+For example, I can give Agent access to my calendar to find a time that works for a group dinner. But I don’t need to give it any access if I’m just asking it to buy me some clothes.
+
+There is more risk in tasks like “Look at my emails that came in overnight and do whatever you need to do to address them, don’t ask any follow up questions”. This could lead to untrusted content from a malicious email tricking the model into leaking your data.
+
+We think it’s important to begin learning from contact with reality, and that people adopt these tools carefully and slowly as we better quantify and mitigate the potential risks involved. As with other new levels of capability, society, the technology, and the risk mitigation strategy will need to co-evolve.",https://x.com/sama/status/1945900345378697650,tweet,Sam Altman,@sama,1780,884,2885,26051,2977074,7881,2025-07-17 14:36:10,,
+1945890293062238332,this is a very cool one! live in 4 mins.,https://x.com/sama/status/1945890293062238332,tweet,Sam Altman,@sama,381,45,253,4128,735146,299,2025-07-17 13:56:13,,
+1945541270438646270,"agree with lots of what jensen has been saying about ai and jobs; there is a ton of stuff to do in the world. 
+
+people will
+
+1) do a lot more than they could do before; ability and expectation will both go up
+2) still care very much about other people and what they do
+3) still be very driven by creating and being useful to others
+
+for sure jobs will be very different, and maybe the jobs of the future will look like playing games to us today while still being very meaningful to those people of the future. (people of the past might say that about us.)
+
+betting against human's ability to want more stuff, find new ways to play status games, ability to find new methods for creative expression, etc is always a bad bet. maybe human money and machine money will be totally different things, who knows, but we have a LOT of main character energy.
+
+more to come.",https://x.com/sama/status/1945541270438646270,tweet,Sam Altman,@sama,1367,333,1200,13257,4146679,3481,2025-07-16 14:49:19,,
+1945540005805658440,good job psyho,https://x.com/sama/status/1945540005805658440,tweet,Sam Altman,@sama,271,55,360,5914,945336,715,2025-07-16 14:44:18,,
+1943837550369812814,"we planned to launch our open-weight model next week.
+
+we are delaying it; we need time to run additional safety tests and review high-risk areas. we are not yet sure how long it will take us.
+
+while we trust the community will build great things with this model, once weights are out, they can’t be pulled back. this is new for us and we want to get it right.
+
+sorry to be the bearer of bad news; we are working super hard!",https://x.com/sama/status/1943837550369812814,tweet,Sam Altman,@sama,2447,772,1239,19737,3501753,1710,2025-07-11 21:59:21,,
+1941999525952184621,watching a baby grow is such a ridiculously great peak life experience,https://x.com/sama/status/1941999525952184621,tweet,Sam Altman,@sama,1659,300,1058,21033,2277138,842,2025-07-06 20:15:42,,
+1941519568658481616,this is very cool; every US child gets a $1k S&amp;P account at birth. more stuff like this please!,https://x.com/sama/status/1941519568658481616,tweet,Sam Altman,@sama,1213,238,733,10125,1914584,735,2025-07-05 12:28:31,,
+1941151234775511328,"I’m not big on identities, but I am extremely proud to be American. This is true every day, but especially today—I firmly believe this is the greatest country ever on Earth. The American miracle stands alone in world history.
+
+I believe in techno-capitalism. We should encourage people to make tons of money and then also find ways to widely distribute wealth and share the compounding magic of capitalism. One doesn’t work without the other; you cannot raise the floor and not also raise the ceiling for very long.
+ 
+The world should get richer every year through science and technology, but everyone has to be in the “up elevator”. I think the government usually does a worse job than markets, and so we need to encourage our culture of innovation and entrepreneurship. I also believe that education is critically important to keeping the American edge.
+
+I believed this when I was 20, when I was 30, and now I am 40 and still believe it. The Democratic party seemed reasonably aligned with it when I was 20, losing the plot when I was 30, and completely to have moved somewhere else at this point. So now I am politically homeless. But that’s fine; I care much, much more about being American than any political party.
+
+I’d rather hear from candidates about how they are going to make everyone have the stuff billionaires have instead of how they are going to eliminate billionaires.
+
+The American experiment has always been messy. I am hopeful for another great 250 years. Happy 4th!",https://x.com/sama/status/1941151234775511328,tweet,Sam Altman,@sama,3042,913,2512,34082,3016856,4408,2025-07-04 12:04:53,,
+1938277441400934447,"AI privacy is critically important as users rely on AI more and more.
+
+the new york times claims to care about tech companies protecting user’s privacy and their reporters are committed to protecting their sources.
+
+but they continue to ask a court to make us retain chatgpt users' conversations when a user doesn't want us to. this is not just unconscionable, but also overreaching and unnecessary to the case. we’ll continue to fight vigorously in court today.
+
+i believe there should be some version of ""AI privilege"" to protect conversations with AI.",https://x.com/sama/status/1938277441400934447,tweet,Sam Altman,@sama,1275,226,921,9252,1039983,740,2025-06-26 13:45:28,,
